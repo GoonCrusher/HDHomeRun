@@ -1,0 +1,85 @@
+# HDHomeRun
+HD HomeRun M3U
+#EXTM3U
+#EXTINF:4.1,4.1: WCMHDT
+http://192.168.1.10:5004/auto/v4.1?duration=7200
+#EXTINF:4.2,4.2: WCMHDT2
+http://192.168.1.10:5004/auto/v4.2?duration=7200
+#EXTINF:4.3,4.3: WCMHDT3
+http://192.168.1.10:5004/auto/v4.3?duration=7200
+#EXTINF:6.1,6.1: WSYXDT
+http://192.168.1.10:5004/auto/v6.1?duration=7200
+#EXTINF:6.2,6.2: WSYXDT2
+http://192.168.1.10:5004/auto/v6.2?duration=7200
+#EXTINF:6.3,6.3: WSYXDT3
+http://192.168.1.10:5004/auto/v6.3?duration=7200
+#EXTINF:10.1,10.1: WBNSDT
+http://192.168.1.10:5004/auto/v10.1?duration=7200
+#EXTINF:10.2,10.2: WBNSDT2
+http://192.168.1.10:5004/auto/v10.2?duration=7200
+#EXTINF:10.3,10.3: WBNSDT3
+http://192.168.1.10:5004/auto/v10.3?duration=7200
+#EXTINF:18.1,18.1: WHIZ-TV
+http://192.168.1.10:5004/auto/v18.1?duration=7200
+#EXTINF:19.1,19.1: WCLL
+http://192.168.1.10:5004/auto/v19.1?duration=7200
+#EXTINF:19.2,19.2: WCLL
+http://192.168.1.10:5004/auto/v19.2?duration=7200
+#EXTINF:22.1,22.1: WMNO-TV
+http://192.168.1.10:5004/auto/v22.1?duration=7200
+#EXTINF:28.1,28.1: WTTEDT
+http://192.168.1.10:5004/auto/v28.1?duration=7200
+#EXTINF:28.2,28.2: WTTEDT2
+http://192.168.1.10:5004/auto/v28.2?duration=7200
+#EXTINF:28.3,28.3: WTTEDT3
+http://192.168.1.10:5004/auto/v28.3?duration=7200
+#EXTINF:32.1,32.1: WCSN-TV
+http://192.168.1.10:5004/auto/v32.1?duration=7200
+#EXTINF:32.2,32.2: WCSN-TV
+http://192.168.1.10:5004/auto/v32.2?duration=7200
+#EXTINF:32.3,32.3: WCSN-TV
+http://192.168.1.10:5004/auto/v32.3?duration=7200
+#EXTINF:32.4,32.4: WCSN-TV
+http://192.168.1.10:5004/auto/v32.4?duration=7200
+#EXTINF:32.5,32.5: WCSN-TV
+http://192.168.1.10:5004/auto/v32.5?duration=7200
+#EXTINF:32.6,32.6: WCSN-TV
+http://192.168.1.10:5004/auto/v32.6?duration=7200
+#EXTINF:32.7,32.7: WCSN TV
+http://192.168.1.10:5004/auto/v32.7?duration=7200
+#EXTINF:32.8,32.8: WCSN-TV
+http://192.168.1.10:5004/auto/v32.8?duration=7200
+#EXTINF:34.1,34.1: WOSUDT
+http://192.168.1.10:5004/auto/v34.1?duration=7200
+#EXTINF:34.2,34.2: WOSUDT2
+http://192.168.1.10:5004/auto/v34.2?duration=7200
+#EXTINF:34.3,34.3: WOSUDT3
+http://192.168.1.10:5004/auto/v34.3?duration=7200
+#EXTINF:34.4,34.4: WOSUDT4
+http://192.168.1.10:5004/auto/v34.4?duration=7200
+#EXTINF:39.1,39.1: COACB
+http://192.168.1.10:5004/auto/v39.1?duration=7200
+#EXTINF:39.2,39.2: BUZZR
+http://192.168.1.10:5004/auto/v39.2?duration=7200
+#EXTINF:39.3,39.3: DAYSTAR
+http://192.168.1.10:5004/auto/v39.3?duration=7200
+#EXTINF:39.4,39.4: QVC
+http://192.168.1.10:5004/auto/v39.4?duration=7200
+#EXTINF:39.5,39.5: BEACON
+http://192.168.1.10:5004/auto/v39.5?duration=7200
+#EXTINF:51.1,51.1: TBN
+http://192.168.1.10:5004/auto/v51.1?duration=7200
+#EXTINF:51.2,51.2: Hillsng
+http://192.168.1.10:5004/auto/v51.2?duration=7200
+#EXTINF:51.3,51.3: Combo
+http://192.168.1.10:5004/auto/v51.3?duration=7200
+#EXTINF:51.4,51.4: ENLACE
+http://192.168.1.10:5004/auto/v51.4?duration=7200
+#EXTINF:51.5,51.5: Salsa
+http://192.168.1.10:5004/auto/v51.5?duration=7200
+#EXTINF:53.1,53.1: WWHODT
+http://192.168.1.10:5004/auto/v53.1?duration=7200
+#EXTINF:53.2,53.2: WWHODT2
+http://192.168.1.10:5004/auto/v53.2?duration=7200
+#EXTINF:53.3,53.3: WWHODT3
+http://192.168.1.10:5004/auto/v53.3?duration=7200
